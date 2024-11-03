@@ -1,0 +1,51 @@
+body 
+{
+    font-family: Arial, sans-serif;
+    padding-top:10rem;
+    display: flex;
+    justify-content: center;
+    align-items: space-evenly;
+    height: 50vh;
+    background-image: url('https://shorturl.at/i7R2A');
+    background-position: left;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container 
+{
+    padding-right: 45rem;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+}
+h1 
+{
+    font-size: 35px;
+    font-family: 'Raleway';
+    padding-bottom: 25px;
+    color:#fc0886;
+    
+}
+p
+{
+   font-family:'oblique','italic';
+   font-size: 25px;
+   padding-bottom: 15px;
+   color:rgba(20, 8, 188, 0.847);
+
+}
+
+button 
+{
+    display: block;
+    margin: 10px auto;
+    padding: 8px 16px;
+    background-color: #f1307d;
+    color: rgb(13, 11, 11);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'cursive';
+    font-size: 17px;
+}
